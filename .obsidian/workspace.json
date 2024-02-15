@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "bdeddd66fa396a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea06090fab1e4c04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cede41676570971",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "STRUCT/_PrototypeArcthecture.canvas",
+                "viewState": {
+                  "x": -23.062659240770188,
+                  "y": 458.88105586341464,
+                  "zoom": -1.1927528643761807
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c06b263745c798ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6cc0819ca502c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ebe73b07e7d3e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52735cb48cc541a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "444b433db0d77db5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5959641ef0de5d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e0f2bfd59197df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf1261927bf7d266",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STRUCT/_PrototypeArcthecture.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39a25232a21bc2d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STRUCT/_PrototypeArcthecture.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff1273a2cdf4f727",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5f44d8bac4d4244",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STRUCT/_PrototypeArcthecture.canvas"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0cede41676570971",
+  "lastOpenFiles": [
+    "STRUCT/code_004.png",
+    "STRUCT/folders_services.png",
+    "STRUCT/code_003.png",
+    "STRUCT/code_002.png",
+    "STRUCT/_PrototypeArcthecture.canvas",
+    "STRUCT/code_001.png",
+    "Welcome.md",
+    "2024-02-11.md",
+    "create a link.md",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "STRUCT"
+  ]
+}
